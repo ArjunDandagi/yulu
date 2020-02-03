@@ -10,7 +10,7 @@
 # assumptions 
 
 1. all the servers are ubuntu
-2. U store the exact name of pem file in ~/.ssh directory
+2. you store the exact name of pem file ( as in u downloaded the same pem without changing the keyname u see in console) in ~/.ssh directory
 3. all your servers are reachable at port 22 from your  IP
 
 
