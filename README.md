@@ -2,7 +2,7 @@
 
 ## HOW to EXECUTE 
 
-1. do the git clone of the folder https://github.com/ArjunDandagi/yulu.git
+1. do the git clone `git clone https://github.com/ArjunDandagi/yulu.git`
 2. CD into folder with `cd yulu`
 3. chmod all the shell files to `chmod u+x *.sh`
 4. and run ./yulu.sh
